@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Scheffio
 - 👀 I’m interested in UX \ UI Design and Web-developing
 - 🌱 I’m currently learning UX \ UI + JS
 - 💞️ I’m looking to collaborate on something
