@@ -1,7 +1,7 @@
 - 👀 I’m interested in UX \ UI Design and Web-developing
 - 🌱 I’m currently learning UX \ UI + JS
 - 💞️ I’m looking to collaborate on something
-- 📫 How to reach me assi1122334455@gmail.com \ vk.com/neoshimathebest 
+- 📫 How to reach me assi1122334455@gmail.com \ https://vk.com/neoshimathebest 
 
 <!---
 Scheffio/Scheffio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
